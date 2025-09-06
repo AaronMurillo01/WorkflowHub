@@ -7,19 +7,19 @@ A modern, production-quality SaaS dashboard application built with React (TypeSc
 ## 📸 Screenshots
 
 ### Welcome Screen
-![Welcome Screen](https://github.com/user-attachments/assets/welcome-screen.png)
+![Welcome Screen](       ![Screenshot 2025-09-05 221357](https://github.com/user-attachments/assets/06090637-da71-420e-a15f-6d9f267b59b4)
 *Step 1 of the onboarding flow - introducing users to Zenith Dashboard's key features*
 
 ### Workspace Setup
-![Workspace Setup](https://github.com/user-attachments/assets/workspace-setup.png)
+![Workspace Setup](![Screenshot 2025-09-05 221434](https://github.com/user-attachments/assets/a7094b94-d547-4d12-80a4-5f99589446b9)
 *Step 2 of the onboarding flow - helping users customize their workspace*
 
 ### Main Dashboard
-![Main Dashboard](https://github.com/user-attachments/assets/main-dashboard.png)
+![Main Dashboard](![Screenshot 2025-09-05 221528](https://github.com/user-attachments/assets/a0e1cfe5-77c5-4af7-a099-f2baabdd3669)
 *The main dashboard showing project statistics, recent projects, and key metrics*
 
 ### AI Assistant
-![AI Assistant](https://github.com/user-attachments/assets/ai-assistant.png)
+![AI Assistant](![Screenshot 2025-09-05 221623](https://github.com/user-attachments/assets/1b25f967-d500-4f05-952c-0e1f54a97521)
 *Built-in AI assistant for project management and productivity insights*
 
 ## 🚀 Features
